@@ -18,6 +18,17 @@ int main(){
         }else{
             operations2
         }
+
+
+        if(statementA){
+            operations1
+        }else if(statementB){
+            operations2
+        }else if(statementC){
+            operations3
+        }else{
+            operations4
+        }
     */
    if(num1>num2){
     printf("num1 is bigger\n");
